@@ -1,5 +1,7 @@
-To-Do List Project
-Description
+To-Do List Project:
+
+Description:
+
 This is a simple and interactive To-Do List web application. The project allows users to add tasks, mark tasks as completed, and delete tasks. The interface is designed for a smooth user experience, featuring a responsive layout and subtle animations.
 
 Features
@@ -36,6 +38,7 @@ When a task is completed, a checkmark icon appears with a fade-out animation.
 Custom Styling:
 
 The application features a clean and visually appealing design using the Poppins font and custom styling.
+
 How to Use
 Open the index.html file in a web browser.
 Enter a task in the input box and click the "ADD" button or press "Enter" to add the task to the list.
